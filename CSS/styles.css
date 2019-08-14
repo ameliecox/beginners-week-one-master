@@ -1,0 +1,24 @@
+body{
+  color: #e09beb;
+}
+h2 {
+  color: #bae7e8;
+}
+h1 {
+  color: #deb8d5;
+}
+div {
+  min-height: 50vh;
+  width: 100vh;
+}
+h1,h2 {
+  text-align: center;
+}
+h1 {
+  font-size:3em;
+}
+p {
+  width: 40%
+  margin: 10vh 10vw
+  font-size:2em
+}
